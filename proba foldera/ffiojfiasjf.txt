@@ -1,3 +1,5 @@
 neka nova promjena
 
 ovo je ta promjena delikatna sa branchom another-new-branch
+
+udari promjenu na 10 10 2022 ponedjeljak
