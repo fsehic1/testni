@@ -1,2 +1,3 @@
 neka nova promjena
 
+ovo je ta promjena delikatna sa branchom another-new-branch
